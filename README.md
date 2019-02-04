@@ -6,6 +6,6 @@ The application works by listing the movies with the API provided by themoviedb.
 <li><b>2. Project Architecture</b></li>
 Mvc was chosen as software architecture. Because it is easier to use the data coming from every api connection.
 <li><b>If I had more time ?</b></li>
- I would make Adapter classes generic.
+ I would make Adapter classes generic and I would add internet connection control.
 </ul>
 
