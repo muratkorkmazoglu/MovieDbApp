@@ -4,32 +4,26 @@
 
     <item
         android:id="@+id/navigation_one"
-        android:icon="@android:drawable/ic_menu_edit"
+        android:icon="@mipmap/top"
         app:showAsAction="always|withText"
-
         android:title="Top Rated" />
 
     <item
         android:id="@+id/navigation_two"
-        android:icon="@android:drawable/ic_menu_add"
+        android:icon="@mipmap/coming"
         app:showAsAction="always|withText"
         android:title="UpComing" />
 
     <item
         android:id="@+id/navigation_three"
-        android:icon="@android:drawable/ic_menu_delete"
+        android:icon="@mipmap/playing"
         app:showAsAction="always|withText"
-
-
-
         android:title="Now Playing" />
 
     <item
         android:id="@+id/navigation_favourite"
-        android:icon="@android:drawable/ic_lock_idle_low_battery"
+        android:icon="@mipmap/favourite"
         app:showAsAction="always|withText"
-
-
         android:title="Favourites" />
 
 </menu>
